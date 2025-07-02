@@ -1,6 +1,7 @@
 import React from "react";
 
-import pic from "../../public/photo.avif";
+// import pic from "../../public/photo.avif";
+import nikhil from "../../public/nikhil.jpg";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
@@ -88,7 +89,7 @@ const Home = () => {
           </div>
           <div className="md:w-1/2 md:ml-48 md:mt-20 mt-8 order-1">
             <img
-              src={pic}
+              src={nikhil}
               className="rounded-full md:w-[450px] md:h-[450px]"
               alt=""
             />
