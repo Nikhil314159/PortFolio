@@ -56,7 +56,10 @@ const Home = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="https://linkedin.com/" target="_blank">
+                    <a
+                      href="https://linkedin.com/in/nikhilbelvalkar"
+                      target="_blank"
+                    >
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
